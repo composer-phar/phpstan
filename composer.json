@@ -1,0 +1,6 @@
+{
+  "name": "composer-phar/phpstan",
+  "description": "phpstan/phpstan",
+  "license": "MIT",
+  "bin": ["phpstan.phar"]
+}
